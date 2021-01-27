@@ -1,0 +1,33 @@
+﻿C:\Users\matteo\source\repos\IRQL\IRQL\IRQL.vcxproj(105,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\matteo\source\repos\IRQL\IRQL\IRQL.vcxproj(163,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1878,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Building 'IRQL' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  irql.c
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(40,35): warning C4057: 'function': 'volatile LONG *' differs in indirection to slightly different base types from 'DWORD *'
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(54,49): warning C4057: 'function': 'volatile LONG *' differs in indirection to slightly different base types from 'DWORD *'
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(59,35): warning C4057: 'function': 'volatile LONG *' differs in indirection to slightly different base types from 'DWORD *'
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(35,11): warning C4100: 'arg2': unreferenced formal parameter
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(34,11): warning C4100: 'arg1': unreferenced formal parameter
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(33,11): warning C4100: 'context': unreferenced formal parameter
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(32,11): warning C4100: 'dpc': unreferenced formal parameter
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(74,30): warning C4057: 'function': 'volatile LONG *' differs in indirection to slightly different base types from 'DWORD *'
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(75,29): warning C4057: 'function': 'volatile LONG *' differs in indirection to slightly different base types from 'DWORD *'
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(89,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(96,37): warning C4242: 'function': conversion from 'DWORD' to 'CCHAR', possible loss of data
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(101,41): warning C4057: 'function': 'volatile LONG *' differs in indirection to slightly different base types from 'DWORD *'
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(108,42): warning C4057: 'function': 'volatile LONG *' differs in indirection to slightly different base types from 'DWORD *'
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(116,36): warning C4057: 'function': 'volatile LONG *' differs in indirection to slightly different base types from 'DWORD *'
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(117,41): warning C4057: 'function': 'volatile LONG *' differs in indirection to slightly different base types from 'DWORD *'
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(121,42): warning C4057: 'function': 'volatile LONG *' differs in indirection to slightly different base types from 'DWORD *'
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(137,31): warning C4100: 'pDriverObject': unreferenced formal parameter
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(156,74): warning C4100: 'regPath': unreferenced formal parameter
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(158,11): warning C4101: 'ntStatus': unreferenced local variable
+  IRQL.vcxproj -> C:\Users\matteo\source\repos\IRQL\x64\Release\IRQL.sys
+C:\Users\matteo\source\repos\IRQL\IRQL\IRQL.vcxproj(105,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\matteo\source\repos\IRQL\IRQL\IRQL.vcxproj(163,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1878,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Done Adding Additional Store
+  Successfully signed: C:\Users\matteo\source\repos\IRQL\x64\Release\IRQL.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
+C:\Users\matteo\source\repos\IRQL\IRQL\IRQL.vcxproj(105,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\matteo\source\repos\IRQL\IRQL\IRQL.vcxproj(163,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1878,3)". This is most likely a build authoring error. This subsequent import will be ignored. 

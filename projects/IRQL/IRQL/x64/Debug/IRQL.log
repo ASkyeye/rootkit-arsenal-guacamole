@@ -1,0 +1,25 @@
+﻿C:\Users\matteo\source\repos\IRQL\IRQL\IRQL.vcxproj(105,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\matteo\source\repos\IRQL\IRQL\IRQL.vcxproj(168,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1878,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Building 'IRQL' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  irql.c
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(42,11): warning C4100: 'arg2': unreferenced formal parameter
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(41,11): warning C4100: 'arg1': unreferenced formal parameter
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(40,11): warning C4100: 'context': unreferenced formal parameter
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(39,11): warning C4100: 'dpc': unreferenced formal parameter
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(72,30): warning C4133: 'function': incompatible types - from 'LONG64 *' to 'volatile LONG *'
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(73,29): warning C4133: 'function': incompatible types - from 'LONG64 *' to 'volatile LONG *'
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(87,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(94,37): warning C4242: 'function': conversion from 'DWORD' to 'CCHAR', possible loss of data
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(139,31): warning C4100: 'pDriverObject': unreferenced formal parameter
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(158,74): warning C4100: 'regPath': unreferenced formal parameter
+C:\Users\matteo\source\repos\IRQL\IRQL\irql.c(160,11): warning C4101: 'ntStatus': unreferenced local variable
+  IRQL.vcxproj -> C:\Users\matteo\source\repos\IRQL\x64\Debug\IRQL.sys
+C:\Users\matteo\source\repos\IRQL\IRQL\IRQL.vcxproj(105,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\matteo\source\repos\IRQL\IRQL\IRQL.vcxproj(168,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1878,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Done Adding Additional Store
+  Successfully signed: C:\Users\matteo\source\repos\IRQL\x64\Debug\IRQL.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
+C:\Users\matteo\source\repos\IRQL\IRQL\IRQL.vcxproj(105,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\matteo\source\repos\IRQL\IRQL\IRQL.vcxproj(168,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1878,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
