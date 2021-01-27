@@ -1,0 +1,13 @@
+﻿  Building 'KMD' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  KMD.c
+C:\Users\matteo\source\repos\KMD\KMD\KMD.c(22,88): warning C4100: 'outputBufferLength': unreferenced formal parameter
+C:\Users\matteo\source\repos\KMD\KMD\KMD.c(22,63): warning C4100: 'inputBufferLength': unreferenced formal parameter
+C:\Users\matteo\source\repos\KMD\KMD\KMD.c(41,44): warning C4100: 'DeviceObject': unreferenced formal parameter
+C:\Users\matteo\source\repos\KMD\KMD\KMD.c(50,46): warning C4100: 'DeviceObject': unreferenced formal parameter
+C:\Users\matteo\source\repos\KMD\KMD\KMD.c(146,67): warning C4100: 'RegistryPath': unreferenced formal parameter
+  KMD.vcxproj -> C:\Users\matteo\source\repos\KMD\Debug\KMD.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\matteo\source\repos\KMD\Debug\KMD.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
