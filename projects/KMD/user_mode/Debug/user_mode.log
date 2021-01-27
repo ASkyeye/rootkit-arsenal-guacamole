@@ -1,6 +1,0 @@
-﻿  usr.c
-C:\Users\matteo\source\repos\KMD\user_mode\usr.c(23,14): warning C4133: 'function': incompatible types - from 'const char [14]' to 'LPCWSTR'
-C:\Users\matteo\source\repos\KMD\user_mode\usr.c(61,2): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
-C:\Users\matteo\source\repos\KMD\user_mode\usr.c(58,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\matteo\source\repos\KMD\user_mode\usr.c(59,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  user_mode.vcxproj -> C:\Users\matteo\source\repos\KMD\Debug\usr.exe
