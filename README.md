@@ -2,7 +2,7 @@
 An attempt to restore and adapt to modern Win10 version the Rootkit Arsenal original code sampls
 All projects have been ported to x64 and tested on latest Win10 (2004 - 19041.746)
 
-## Projects | Description | Addendum
+## Projects 
 
 ### Templates
 
